@@ -130,6 +130,11 @@
   ],
   "oncology": [
     {
+      "textBefore": "Alfaifi, Mohammed, Hossam Kamli, Najeeb Ullah Khan, and",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "\"Biomarker Discovery and Drug Repurposing in Hepatocellular Carcinoma Through Transcriptomics, Machine Learning, Network Pharmacology, and Molecular Dynamics.\" Computational Biology and Chemistry (2026): 108937."
+    },
+    {
       "textBefore": "Naz, Amna, Muhammad Farooq, Muhammad Sarfraz",
       "boldText": "Ahsanullah Unar",
       "textAfter": "Rouheena Shakir, Hafiz Arfat Idrees, and Nadia Anwar. \"Formulation and HPLC‐UV− Based Quantification of Nanoliposomes Co‐Encapsulating Genistein and Oleanolic Acid.\" International Journal of Analytical Chemistry 2026, no. 1 (2026): 6094234."
