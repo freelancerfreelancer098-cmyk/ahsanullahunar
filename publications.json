@@ -2,6 +2,11 @@
   "computational": [
     {
       "textBefore": "Kamal, Sundreen Asad, Youtian Du, Anas Bilal, Asaad Algarni,",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "and Seyed Jalaleddin Mousavirad. \"A multi-modal deep learning framework for automated eye disease diagnosis using hybrid feature optimization.\" Journal of Big Data (2026)."
+    },
+    {
+      "textBefore": "Kamal, Sundreen Asad, Youtian Du, Anas Bilal, Asaad Algarni,",
       "boldText": "Ahsanullah Unar, and Seyed Jalaleddin Mousavirad.",
       "textAfter": "\"A multi-modal deep learning framework for automated eye disease diagnosis using hybrid feature optimization.\" Journal of Big Data (2026)."
     },
