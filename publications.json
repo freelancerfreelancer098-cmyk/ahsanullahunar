@@ -1,6 +1,11 @@
 {
   "computational": [
     {
+      "textBefore": "Zafar, Imran, Shakila Anwar, Waqas Yousaf, Fakhar Un Nisa, Tanzeela Kausar, Qurat ul Ain,",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. \"Reviewing methods of deep learning for intelligent healthcare systems in genomics and biomedicine.\" Biomedical Signal Processing and Control 86 (2023): 105263."
+    },
+    {
       "textBefore": "Alwashmi, Ameen SS, Najeeb Ullah Khan, and",
       "boldText": "Ahsanullah Unar",
       "textAfter": "Decoding Microbiota–Immune Interplay in Viral Pathogenesis: Toward Next-Generation Antiviral Therapies.\" Probiotics and Antimicrobial Proteins (2026): 1-18"
