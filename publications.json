@@ -1,2 +1,334 @@
 [
+{
+  "computational": [
+    {
+      "textBefore": "Kamal, Sundreen Asad, Youtian Du, Anas Bilal, Asaad Algarni, ",
+      "boldText": "Ahsanullah Unar, and Seyed Jalaleddin Mousavirad.",
+      "textAfter": "\"A multi-modal deep learning framework for automated eye disease diagnosis using hybrid feature optimization.\" Journal of Big Data (2026)."
+    },
+    {
+      "textBefore": "Irtaza, Ghulam, Naz, Naila Sammar, Saeed, Muhammad Usman, Shflot, AS, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "(2025). SE-Res-U-Net: an improved U-Net architecture for efficient sleep state detection and classification. Scientific Reports, 15(1), 39196."
+    },
+    {
+      "textBefore": "Ghulam, Ali, Arif, Muhammad, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "A. Thafar, Maha, Albaradei, Somayah, Worachartcheewan, Apilak (2025). StackAHTPs: An explainable antihypertensive peptides identifier based on heterogeneous features and stacked learning approach. IET Systems Biology, 19(1), e70002."
+    },
+    {
+      "textBefore": "Ahmad, Saleem, Wang, Li, Zafar, Imran, Abbas, Zain, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Mohany, Mohamed, Al-Rejaie, Salim S, Khan, Najeeb Ullah, Ali, Ijaz, Shafiq, Muhammad (2025). Informatics approach towards targeting HTR1B pathways in neuropharmacology for migraine treatment. Current Neuropharmacology, 23(14), 1939-1961."
+    },
+    {
+      "textBefore": "Zafar, Imran, Imtiaz, Sara, Abbas, Zain, Azmat, Muhammad, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Khan, Azmat Ali, Alanazi, Amer M, Nazir, Sadia, ul Ain, Qurat (2024). In silico and in vitro study of bioactive compounds from Allium sativum with PTEN: A novel target and promising source for cancer diagnostic potentials. Journal of King Saud University-Science, 36(8), 103281."
+    },
+    {
+      "textBefore": "Zafar, Imran, Safder, Arfa, Imran Afridi, Hassan, Riaz, Sania, ur-Rehman, Rizwan, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Un Nisa, Fakhar, Gaafar, Abdel-Rhman Z, Bourhia, Mohammed, Wondmie, Gezahign Fentahun (2023). In silico and in vitro study of bioactive compounds of Nigella sativa for targeting neuropilins in breast cancer. Frontiers in Chemistry, 11, 1273149."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Imtiaz Mahrukh, Trung Tan Truong, Rafiq Maria, Fatmi Qaiser Muhammad, Jafar Hussain Tassadaq (2022). Structural & Functional Analyses of SARS COV-2 RNA-dependent RNA polymerase Protein and Complementary vs Synthetic Drugs against COVID-19. Current Bioinformatics, 17."
+    },
+    {
+      "textBefore": "Ayesha, Aftab, Khan, Ranjha, Shah, Wasim, Azhar, Muhammad, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Jafar Hussain, Hafiz Muhammad, Waqas, Ahmed (2021). Computational analysis of Cyclin D1 gene SNPs and association with breast cancer. Bioscience Reports, 41(1), BSR20202269."
+    },
+    {
+      "textBefore": "Farman Ali, Shahid Akbar, Ghulam Ali, Zulfikar Ahmed Maher, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Dhani Bux Talpur (2021). AFP-CMBPred: Computational identification of antifreeze proteins by extending consensus sequences into multi-blocks evolutionary information. Computers in Biology and Medicine, 105006."
+    },
+    {
+      "textBefore": "Ghulam, Ali, Memon, Mukhtiar, Hyder, Mansoor, Maher, Zulfikar Ahmed, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Swati, Zar Nawab Khan, Talpur, Dhani Bux, Sikander, Rahu, Ullah, Ikram, Farman, Ali (2021). Identification of Novel Protein Sequencing SARS CoV-2 Coronavirus Using Machine Learning. Bioscience Research, 18(S1), 47-58."
+    },
+    {
+      "textBefore": "Imran Zafar, Sujit Kumar, Deepak Agarwal, Hafiza Amna Mumtaz, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2020). Structural and Computational Analysis of Emerging Coronavirus (SARS-Cov-2). COVID-19 & Infectious Diseases in Relation to Public Health, 1(31/5/2020), 90."
+    }
+  ],
+  "environmental": [
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Chanihoon, Ghulam Qadir, Bashir, Muhammad Sohail, Alredah, Islam AbdulRahim, Qureshi, Muqaddas, Ataya, Farid S, Ali, Asim, Alsawalha, Laila, Afridi, Hassan Imran (2025). Trace element imbalances in selenium and mercury in relation to mammographic density and breast cancer progression. Scientific Reports, 15(1), 39173."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Qureshi, Muqaddas, Afridi, Hassan Imran, Wassan, Shafkatullah (2024). The Role of Bacterial Toxins and Environmental Factors in the Development of Food Allergies. Allergies, 4(4), 192-217."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Sahito, Oan Muhammad, Alsawalha, Laila, Afridi, Hassan Imran, Ataya, Farid Shokry, Bashir, Muhammad Sohail, Fouad, Dalia, Talpur, Farah Naz, Ali, Naveed (2024). Determination of toxic elements in cannabinoid and opioid drugs and their impact on addicts’ health. Biological trace element research, 202(12), 5339-5347."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Sarfraz, Muddassar, Ajarem, Jamaan S, Allam, Ahmed A, Bhatti, Urooj, Chanihoon, Ghulam Qadir, Afridi, Hassan Imran (2023). Mitigating marine hazardous contaminants: A sustainable management perspective. Chemosphere, 338, 139292."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Chanihoon, Ghulam Qadir (2023). Correlations Between Environmental Enteropathy and Anemia in Pediatric Patients Under Five Years: An Investigation of Lead Exposure."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Fouad, Dalia, Ataya, Farid S, Alsawalha, Laila, Chanihoon, Ghulam Qadir, Bashir, Muhammad Sohail (2023). Assessment of Selenium and Mercury Levels in Breast Tissue of Malignant and Healthy Female Patients in Pakistan."
+    },
+    {
+      "textBefore": "Li, Yuanji, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Afridi, Hassan Imran (2023). Environmental impact of endocrine-disrupting chemicals and heavy metals in biological samples of petrochemical industry workers. Environmental Research, 231, 115913."
+    },
+    {
+      "textBefore": "Ning, Jiajing, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "(2023). The importance of monitoring endocrine-disrupting chemicals and essential elements in biological samples of fertilizer industry workers. Environmental Research, 231, 116173."
+    },
+    {
+      "textBefore": "Afridi, Hassan Imran, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Effect of lead on the skin and health of female dermatitis patients through cosmetics. Journal of Ayub Medical College Abbottabad, 35(1), 88-94."
+    },
+    {
+      "textBefore": "Sahito, Oan Muhammad, Hassan Imran Afridi, ",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "et al. (2022). Essential trace elemental levels (Zinc, Iron and Copper) in the biological samples of referent and different types of drug abuse patients. Bioscience Research, 19((4)), 1952-1963."
+    },
+    {
+      "textBefore": "Chanihoon, Ghulam Qadir, Afridi, Hassan Imran, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2022). Selenium and mercury concentrations in biological samples from patients with COVID-19. Journal of Trace Elements in Medicine and Biology, 73, 127038."
+    },
+    {
+      "textBefore": "Chanihoon, Ghulam Qadir, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2021). An AAS Dependent method for quantitative analysis of essential trace elements from blood samples. Advances in Breast Cancer Research, 10(3), 44-59."
+    }
+  ],
+  "oncology": [
+    {
+      "textBefore": "Yousuf, Amjad, Khan, Najeeb Ullah, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "(2025). Meta‐Analysis of CYP1A1 MspI and Ile462Val Polymorphisms in Cancer Susceptibility Among Different Ethnic Populations. Environmental and Molecular Mutagenesis."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "(2025). Lysine malonylation as a therapeutic target: implications for metabolic, inflammatory, and oncological disorders. Amino Acids, 57(1), 49."
+    },
+    {
+      "textBefore": "Alshehri, Samiyah, Khan, Bushra, Khan, Najeeb Ullah, ",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "(2025). The Efficacy of Polatuzumab Vedotin Targeting CD79B in the Treatment of Non-Hodgkin Lymphoma. IJMS, 26(14), 6836."
+    },
+    {
+      "textBefore": "Zafar, Imran, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Khan, Najeeb Ullah, Abalkhail, Adil, Jamal, Adil (2025). Molecular Biology in the Exabyte Era: Taming the Data Deluge for Biological Revelation and Clinical Transformation. Computational Biology and Chemistry, 108535."
+    },
+    {
+      "textBefore": "Zafar, Imran, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2025). Comprehensive Genomic, Mutation, Phylogenetic, and Statistical Analysis of the Monkeypox Virus Across Multiple Countries. Indian Journal of Microbiology, 1-24."
+    },
+    {
+      "textBefore": "Bashir, Muhammad Sohail, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Azhar, Umair, Wang, Fuzhou (2024). Biopolymers as Promising Materials for Wound Healing. Bio-Based Polymers: Emerging Trends and Applications, 235-257."
+    },
+    {
+      "textBefore": "Ain, Qurat ul, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2024). Multifunctional analysis of banana leaves extracts for dyeing properties of pima cotton fabric. Natural Product Communications, 19(2)."
+    },
+    {
+      "textBefore": "Talpur, Farah N, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Stereoselective Bioreduction of Acetophenone to (R)-1-Phenylethanol by Bacillus thuringiensis. Current Organic Chemistry, 27(20), 1814-1820."
+    },
+    {
+      "textBefore": "Talpur, Farah N, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Efficient Hydrolysis of Cottonseed Oil with Amano Lipase Entrapped on Hydrolysed Polyvinyl Alcohol Gel Pellets. Current Organic Chemistry, 27(18), 1641-1650."
+    },
+    {
+      "textBefore": "Talpur, Farah Naz, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Bioremediation of neonicotinoid pesticide, imidacloprid, mediated by Bacillus cereus. Bioengineering, 10(8), 951."
+    },
+    {
+      "textBefore": "Shakeel, Sadia, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Xanthan gum-mediated silver nanoparticles for ultrasensitive electrochemical detection of Hg2+ ions from water. Catalysts, 13(1), 208."
+    },
+    {
+      "textBefore": "Bashir, Muhammad Sohail, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Facile one-pot strategy to fabricate polyurea-based palladium for flow-through catalytic reduction of harmful hexavalent chromium. Inorganic Chemistry Communications, 158, 111462."
+    },
+    {
+      "textBefore": "Ain, Qura Tul, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Adaptive mechanisms in quinoa for coping in stressful environments: an update. PeerJ, 11, e14832."
+    },
+    {
+      "textBefore": "Arain, Saba Waris, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2023). Bioproduction of conjugated linolenic acid by L. plantarum using linolenic acid as a substrate. Chinese journal of analytical chemistry, 51(4), 100221."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "et al. (2022). Determination of enzyme Q10 level in Pakistani female patients with breast cancer. Chinese Journal of Analytical Chemistry, 50(3), 100061."
+    },
+    {
+      "textBefore": "Mangrio, Ghulam Rasool, et al., ",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "(2022). RP-HPLC Method Development, Validation, and Drug Repurposing of Sofosbuvir. Environmental Research, 212(Part C)."
+    },
+    {
+      "textBefore": "Chanihoon, Ghulam Qadir, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2022). Determining the level of essential elements in patients with Ewing Sarcoma: A correlation. Environmental Research, 113035."
+    },
+    {
+      "textBefore": "Safir Ullah Khan, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2022). Mechanisms of gene regulation by histone degradation in adaptation of yeast: an overview. Archives of Microbiology, 204(287)."
+    },
+    {
+      "textBefore": "Irum Khalid, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2021). In-Silico Identification of Anticancer Compounds; Ligand-Based Pharmacophore Approach against EGFR involved in Breast Cancer. Advances in Breast Cancer Research, 10(July 2021), 120-132."
+    },
+    {
+      "textBefore": "Ghulam Murtaza, et al., ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "et al. (2021). Identification and Functional Investigation of Novel Heterozygous HELQ Mutations in Patients with Sertoli Cell-only Syndrome. GENETIC TESTING AND MOLECULAR BIOMARKERS, 25(10)."
+    },
+    {
+      "textBefore": "Qureshi, Muqaddas, Afridi, Hassan Imran, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "(2024). Indoleamine 2, 3-Dioxygenase in Primary Biliary Cholangitis: A Comprehensive Review of its Role, Clinical Applications, and Regulatory Mechanisms."
+    }
+  ],
+  "reproductive": [
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Afridi, Hassan Imran, Ali, Asim, Ali, Naveed, Qureshi, Taiyaba (2025). Determination of Electrolytes and Trace Elements in Biological Samples from Patients with Altered Semen Parameters: a Correlational Analysis. Biological Trace Element Research, 203(3), 1383-1394."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Afridi, Hassan Imran, Ali, Asim (2024). Determination of Electrolytes and Trace Elements in Biological Samples of Patients with Oligozoospermia, Asthenozoospermia, Oligoasthenozoospermia, Oliasthenoteratozoospermia, Teratozoospermia: A Correlational Analysis."
+    },
+    {
+      "textBefore": "Ali, Imtiaz, Ali, Haider, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Rahim, Fazal, Khan, Khalid, Dil, Sobia, Abbas, Tanveer, Hussain, Ansar, Zeb, Aurang, Zubair, Muhammad (2024). A novel homozygous missense TTC12 variant identified in an infertile Pakistani man with severe oligoasthenoteratozoospermia and primary ciliary dyskinesia. Molecular Genetics and Genomics, 299(1), 69."
+    },
+    {
+      "textBefore": "Ali, Asim, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Muhammad, Zubair, Dil, Sobia, Zhang, Beibei, Sadaf, Humaira, Khan, Manan, Ali, Muhammad, Khan, Ranjha, Shah, Kakakhel Mian Basit (2024). A novel NPHP4 homozygous missense variant identified in infertile brothers with multiple morphological abnormalities of the sperm flagella. Journal of Assisted Reproduction and Genetics, 41(1), 109-120."
+    },
+    {
+      "textBefore": "Khan, Khalid, Zhang, Xiangjun, Dil, Sobia, Khan, Ihsan, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Ye, Jingwei, Zeb, Aurang, Zubair, Muhammad, Shah, Wasim, Zhang, Huan (2024). A novel homozygous TSGA10 missense variant causes acephalic spermatozoa syndrome in a Pakistani family. Basic and Clinical Andrology, 34(1), 4."
+    },
+    {
+      "textBefore": "Dil, Sobia, Khan, Asad, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Yang, Meng-Lei, Ali, Imtiaz, Zeb, Aurang, Zhang, Huan, Zhou, Jian-Teng, Zubair, Muhammad, Khan, Khalid (2023). A novel homozygous frameshift variant in DNAH8 causes multiple morphological abnormalities of the sperm flagella in a consanguineous Pakistani family. Asian journal of andrology, 25(3), 350-355."
+    },
+    {
+      "textBefore": "Dil, Sobia, Ye, Jingwei, Ma, Hui, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Khan, Ihsan, Ali, Asim, Khan, Khalid, Menglei, Yang, Ma, Ao, Shah, Basit (2023). Cornichon protein CNIH4 is not essential for mice gametogenesis and fertility. Developmental Biology, 496, 15-23."
+    },
+    {
+      "textBefore": "Haider Ali, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Muhammad Zubair, Sobia Dil, Farman Ullah, Ihsan Khan, Ansar Hussain, Qinghua Shi (2022). In silico analysis of a novel pathogenic variant c.7G > A in C14orf39 gene identified by WES in a Pakistani family with azoospermia. Molecular Genetics and Genomics."
+    },
+    {
+      "textBefore": "Ali, Haider, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Dil, Sobia, Ali, Imtiaz, Khan, Khalid, Khan, Ihsan, Shi, Qinghua (2022). Testis-specific fascin component FSCN3 is dispensable for mouse spermatogenesis and fertility. Molecular Biology Reports, 49(7), 6261-6268."
+    },
+    {
+      "textBefore": "Zaman, Qumar, Khan, Ranjha, Hameed, Uzma, Shah, Wasim, Waqas, Ahmed, Zubair, Muhammad, Dil, Sobia, Zafar, Tuba, Ali, Asim, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "(2021). Exonuclease 5 is dispensable for meiotic progression and male fertility in mouse. Gene, 769, 145254."
+    }
+  ],
+  "vascular": [
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Durante-Mangoni, Emanuele (2025). Bioinformatic analysis of rare endothelial protein C receptor missense variants associated with coagulation and thrombophilia risk. Scientific Reports, 15(1), 36528."
+    },
+    {
+      "textBefore": "Qureshi, Muqaddas, Alam, Muhammad Tanveer, ",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "(2025). The role of tissue Factor-Positive microparticles in gynecological Cancer-Associated disseminated intravascular coagulation: molecular mechanisms and clinical implications. Onco, 5(3), 33."
+    },
+    {
+      "textBefore": "Ahmad, S., Zafar, I., Shafiq, S., Sehar, L., Khalil, H., Matloob, N., Hina, M., Muntaha, S. T., Khan, H., Khan, N. U., Rana, S., ",
+      "boldText": "Unar, A.",
+      "textAfter": "Azmat, M., Shafiq, M., Jardan, Y. A. B., Dauelbait, M., & Bourhia, M. (2025). Deep learning-based computational approach for predicting ncRNAs-disease associations in metaplastic breast cancer diagnosis. BMC cancer, 25(1), 830."
+    },
+    {
+      "textBefore": "Bertolino, Lorenzo, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Patauner, Fabian, Gallo, Raffaella, Peluso, Anna Maria Carolina, Delle Femine, Augusto, Infante, Oriana, Mercadante, Silvia, Luciano, Fabio, Manduca, Sabrina (2025). Embolic complications in a large contemporary cohort of infective endocarditis: do we need score model?. Infection, 53(3), 1101-1113."
+    },
+    {
+      "textBefore": "Arshad, Ihtesham, Kanwal, Ayesha, Zafar, Imran, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Mouada, Hanane, Razia, Iashia Tur, Arif, Safina, Ahsan, Muhammad, Kamal, Mohammad Amjad, Rashid, Summya (2024). Multifunctional role of nanoparticles for the diagnosis and therapeutics of cardiovascular diseases. Environmental Research, 242, 117795."
+    },
+    {
+      "textBefore": "Bertolino, Lorenzo, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Patauner, Fabian, Gallo, Raffaella, Peluso, Anna Maria Carolina, Delle Femine, Augusto, Infante, Oriana, Mercadante, Silvia, Luciano, Fabio, Manduca, Sabrina (2024). Correlates of embolic complications in a contemporary cohort of infective endocarditis: performance of a diagnostic score model."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Bertolino, Lorenzo, Patauner, Fabian, Gallo, Raffaella, Durante-Mangoni, Emanuele (2023). Pathophysiology of disseminated intravascular coagulation in sepsis: a clinically focused overview. Cells, 12(17), 2120."
+    },
+    {
+      "textBefore": "",
+      "boldText": "Ahsanullah Unar (Corresponding Author)",
+      "textAfter": "Lorenzo Bertolino, Fabian Patauner, Raffaella Gallo, Emanuele Durante-Mangoni (2023). Decoding Sepsis-Induced Disseminated Intravascular Coagulation: A Comprehensive Review of Existing and Emerging Therapies. Journal of Clinical Medicine, 12(19)."
+    },
+    {
+      "textBefore": "Rasool Rabia Rasool, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Jafar Hussain Tassadaq, Chanihoon Qadir Ghulam, Mubeen Bismillah (2022). A Role of Thyroid Hormones in Acute Myocardial Infarction: An Update. Current Cardiology Reviews, 18(e280422204209)."
+    },
+    {
+      "textBefore": "Ghulam, Ali, Sikander, Rahu, Ali, Farman, Swati, Zar Nawab Khan, ",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Talpur, Dhani Bux (2022). Accurate prediction of immunoglobulin proteins using machine learning model. Informatics in Medicine Unlocked, 29, 100885."
+    }
+  ]
+}
 ]
