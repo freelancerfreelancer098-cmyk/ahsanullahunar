@@ -125,6 +125,11 @@
   ],
   "oncology": [
     {
+      "textBefore": "Naz, Amna, Muhammad Farooq, Muhammad Sarfraz",
+      "boldText": "Ahsanullah Unar",
+      "textAfter": "Rouheena Shakir, Hafiz Arfat Idrees, and Nadia Anwar. \"Formulation and HPLC‐UV− Based Quantification of Nanoliposomes Co‐Encapsulating Genistein and Oleanolic Acid.\" International Journal of Analytical Chemistry 2026, no. 1 (2026): 6094234."
+    },
+    {
       "textBefore": "Yousuf, Amjad, Khan, Najeeb Ullah,",
       "boldText": "Ahsanullah Unar",
       "textAfter": "(2025). Meta-Analysis of CYP1A1 MspI and Ile462Val Polymorphisms in Cancer Susceptibility Among Different Ethnic Populations. Environmental and Molecular Mutagenesis."
